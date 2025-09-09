@@ -106,7 +106,7 @@ const achievement = {
 ## 📊 PERFORMANCE METRICS
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RamCharanTeja-22&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RamCharanTeja-22&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&hide=prs"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamCharanTeja-22&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9"/>
 </div>
 
