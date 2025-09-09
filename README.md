@@ -172,7 +172,7 @@ graph TD
 
 ---
 
-## 🎪 WHAT MAKES ME UNIQUE AMONG 8 BILLION HUMANS
+## 🎪 WHAT MAKES ME UNIQUE 
 
 <div align="center">
 
