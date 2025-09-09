@@ -1,4 +1,4 @@
-# <div align="center">🚀 RAM CHARAN TEJA 🚀</div>
+# <div align="center"> RAM CHARAN TEJA </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=AI+RESEARCH+PRODIGY+🧠;FULL+STACK+ARCHITECT+⚡;PYTHON+MASTER+🐍;CLOUD+NATIVE+DEVELOPER+☁️;NEUROMORPHIC+AI+PIONEER+🔬" alt="Typing SVG" />
