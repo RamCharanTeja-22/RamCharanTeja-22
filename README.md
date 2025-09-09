@@ -217,7 +217,7 @@ Next_Level_Unlocks:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20for%20AI%20Discussions-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-l-ram-charan-teja-ba2b25288/)
 [![Email](https://img.shields.io/badge/Email-Collaborate%20on%20Research-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nlramcharanplacement@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20AI%20Projects-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramcharanteja-22.github.io/RAM_CHARAN_TEJA/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20AI%20Projects-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramcharanteja-22.github.io/RAM_CHARAN_TEJA/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Algorithm%20Master-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://(leetcode.com/u/N_L_R/))
 
 </div>
