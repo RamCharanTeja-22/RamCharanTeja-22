@@ -85,15 +85,13 @@ const achievement = {
 ![Python](https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Neural%20Architect-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black)
-![Django](https://img.shields.io/badge/Django-Full%20Stack-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 ![Flask](https://img.shields.io/badge/Flask-API%20Master-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)
 
 ### 🗄️ **DATABASE DOMINATION**
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
-![NoSQL](https://img.shields.io/badge/NoSQL-Certified-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 
 ### ☁️ **CLOUD NATIVE ARCHITECT**
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=black)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Container%20Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
 
 ### 🔧 **FULL STACK ARSENAL**
@@ -217,10 +215,10 @@ Next_Level_Unlocks:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20for%20AI%20Discussions-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20for%20AI%20Discussions-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-l-ram-charan-teja-ba2b25288/)
 [![Email](https://img.shields.io/badge/Email-Collaborate%20on%20Research-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nlramcharanplacement@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20AI%20Projects-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Algorithm%20Master-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](your-leetcode-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20AI%20Projects-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramcharanteja-22.github.io/RAM_CHARAN_TEJA/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Algorithm%20Master-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://(leetcode.com/u/N_L_R/))
 
 </div>
 
