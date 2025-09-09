@@ -217,10 +217,10 @@ Next_Level_Unlocks:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20for%20AI%20Discussions-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20for%20AI%20Discussions-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/n-l-ram-charan-teja-ba2b25288/)
 [![Email](https://img.shields.io/badge/Email-Collaborate%20on%20Research-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nlramcharanplacement@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20AI%20Projects-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-link)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Algorithm%20Master-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](your-leetcode-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20AI%20Projects-000000?style=for-the-badge&logo=About.me&logoColor=white)]([your-portfolio-link](https://ramcharanteja-22.github.io/RAM_CHARAN_TEJA/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Algorithm%20Master-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([your-leetcode-profile](https://leetcode.com/u/N_L_R/))
 
 </div>
 
@@ -229,16 +229,6 @@ Next_Level_Unlocks:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
 </div>
-
-<div align="center">
-  
-### 💫 *"In a world of 8 billion minds, I'm the one teaching AI to keep secrets while serving humanity"*
-
-**🎯 Mission: Making AI Privacy-Preserving • Interpretable • Impactful**
-
-</div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Ready+to+revolutionize+AI+together%3F+🚀;Let's+build+the+future+of+intelligent+systems!+💡" alt="Footer Typing SVG" />
