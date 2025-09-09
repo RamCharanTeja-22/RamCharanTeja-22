@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RamCharanTeja-22&label=Profile%20Views&color=ff6b6b&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Python%20FullStack-ff6b6b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Python%20FullStack-ff6b6b?style=for-the-badge" />
 </p>
 
 ---
