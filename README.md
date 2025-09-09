@@ -1,4 +1,4 @@
-# <div align="center"> RAM CHARAN TEJA </div>
+# <div align="center"> Hello👋 I'M RAM CHARAN TEJA </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=AI+RESEARCH+PRODIGY+🧠;FULL+STACK+ARCHITECT+⚡;PYTHON+MASTER+🐍;CLOUD+NATIVE+DEVELOPER+☁️;NEUROMORPHIC+AI+PIONEER+🔬" alt="Typing SVG" />
@@ -10,8 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RamCharanTeja-22&label=Profile%20Views&color=ff6b6b&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/RamCharanTeja-22?label=Followers&style=for-the-badge&color=4c71f2" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Privacy%20Research-ff6b6b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Python%20FullStack-ff6b6b?style=for-the-badge" />
 </p>
 
 ---
